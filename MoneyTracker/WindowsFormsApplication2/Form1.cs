@@ -14,7 +14,11 @@ namespace WindowsFormsApplication2
 {
     public partial class Form1 : Form
     {
-        SQLiteConnection con = new SQLiteConnection(@"Data Source=D:\OneDrive\mymoney\mymoney.db;Version=3;");
+        static string filepath = System.IO.Path.Combine(Application.StartupPath + "\\BD\\mymoney.db");
+           // filepath = System.IO.Path.Combine(Application.StartupPath + "\\BD\\mymoney.db");
+        //SQLiteConnection con = new SQLiteConnection(@"Data Source=" + filepath + ";Version=3;");
+        //SQLiteConnection con = new SQLiteConnection(@"Data Source=" + filepath + ";Version=3;");
+        SQLiteConnection con = new SQLiteConnection(@"Data Source=D:\Programming\GitHub\MoneyTracker\MoneyTracker\WindowsFormsApplication2\bin\x86\Debug\DB\mymoney.db;Version=3;");
         SQLiteDataAdapter da1;
         DataTable dt1 = new DataTable();
         SQLiteDataAdapter da2;
@@ -25,6 +29,7 @@ namespace WindowsFormsApplication2
         public Form1()
         {
             InitializeComponent();
+            MessageBox.Show(con.ConnectionString);
         }
         private void Show_current_balance()
         {
