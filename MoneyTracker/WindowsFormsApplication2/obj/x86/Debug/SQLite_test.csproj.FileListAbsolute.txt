@@ -24,3 +24,16 @@ D:\OneDrive\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\D
 D:\OneDrive\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.Add_Currency_Form.resources
 D:\OneDrive\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.Properties.Resources.resources
 D:\OneDrive\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\SQLite_test.csproj.GenerateResource.Cache
+D:\Programming\GitHub\MoneyTracker\MoneyTracker\WindowsFormsApplication2\bin\x86\Debug\WindowsFormsApplication2.exe.config
+D:\Programming\GitHub\MoneyTracker\MoneyTracker\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.exe
+D:\Programming\GitHub\MoneyTracker\MoneyTracker\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.pdb
+D:\Programming\GitHub\MoneyTracker\MoneyTracker\WindowsFormsApplication2\bin\x86\Debug\WindowsFormsApplication2.exe
+D:\Programming\GitHub\MoneyTracker\MoneyTracker\WindowsFormsApplication2\bin\x86\Debug\WindowsFormsApplication2.pdb
+D:\Programming\GitHub\MoneyTracker\MoneyTracker\WindowsFormsApplication2\bin\x86\Debug\SQLite.NET.dll
+D:\Programming\GitHub\MoneyTracker\MoneyTracker\WindowsFormsApplication2\obj\x86\Debug\SQLite_test.csprojResolveAssemblyReference.cache
+D:\Programming\GitHub\MoneyTracker\MoneyTracker\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.Add_Account.resources
+D:\Programming\GitHub\MoneyTracker\MoneyTracker\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.Add_Transaction.resources
+D:\Programming\GitHub\MoneyTracker\MoneyTracker\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.Form1.resources
+D:\Programming\GitHub\MoneyTracker\MoneyTracker\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.Add_Currency_Form.resources
+D:\Programming\GitHub\MoneyTracker\MoneyTracker\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.Properties.Resources.resources
+D:\Programming\GitHub\MoneyTracker\MoneyTracker\WindowsFormsApplication2\obj\x86\Debug\SQLite_test.csproj.GenerateResource.Cache
